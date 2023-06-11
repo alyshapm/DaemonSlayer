@@ -41,7 +41,7 @@ pip install pyinstaller
 pyinstaller --onefile daemonSlayer.py
 pyinstaller --onefile daemonSlayer2.py
 ```
-and any user will be able to run the files without Python isntaled.
+Any user will be able to run the files without Python installed as they are executables.
 
 ## Warning
 This program is for education purposes only. Use at your own risk and discretion. We do not take responsibility for the damage caused or misconduct used with this program.

@@ -6,6 +6,9 @@
 
 DaemonSlayer is designed to steal a specific file or all files from the victim's computer and stores them in a Discord WebHook.
 
+### Target
+Users of Windows 10+.
+
 ### Contributors
 1. Alysha Maulidina
 2. Kimberly Mazel

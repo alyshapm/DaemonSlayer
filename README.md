@@ -1,7 +1,7 @@
 # <h1 align="center">DaemonSlayer</h1>
 ## Project description
 
-[![report](https://img.shields.io/static/v1.svg?label=documentation&message=Report&logo=microsoft-word&color=bluel)](https://1drv.ms/b/s!Al-UqYhUbVOsgS0k0TOFU170dTIN?e=JL7tlY)
+[![report](https://img.shields.io/static/v1.svg?label=documentation&message=Report&logo=microsoft-word&color=bluel)](https://binusianorg-my.sharepoint.com/personal/kimberly_mazel_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0733469a87b264bd8bba28f95f37329dc&authkey=AQZeiY8xSWNUVGelE0nvddg&e=FqUX43)
 [![Video](https://img.shields.io/static/v1?label=documentation&message=Video&color=blue)](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0d8879a19f7e8428b96bf5b1ca10b537f&authkey=AWOORrkyFVlzrNK3njiUadw&e=eovFsT)
 
 DaemonSlayer is designed to steal a specific file or all files from the victim's computer and stores them in a Discord WebHook.

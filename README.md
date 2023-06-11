@@ -2,6 +2,7 @@
   <img src="readme.gif" alt="animated" />
 </p>
 <h1 align="center">DaemonSlayer</h1>
+
 ## Project description
 
 [![report](https://img.shields.io/static/v1.svg?label=documentation&message=Report&logo=microsoft-word&color=bluel)](https://binusianorg-my.sharepoint.com/personal/kimberly_mazel_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0733469a87b264bd8bba28f95f37329dc&authkey=AQZeiY8xSWNUVGelE0nvddg&e=FqUX43)

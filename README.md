@@ -15,8 +15,6 @@ DaemonSlayer is designed to steal a specific file or all files from the victim's
 2. `daemonSlayer2.py`: This file is to retrieve ALL files, according to the set list of file extensions.
 3. `dist`: Folder containing the executable files; `Instagram.exe` for `daemonSlayer.py` and `TikTok.exe` for `daemonSlayer2.py`.
 
-## Showcase
-
 ## Getting started
 1. Clone this repo.
 ```bash

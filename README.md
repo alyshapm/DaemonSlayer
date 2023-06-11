@@ -3,15 +3,17 @@
 
 [![report](https://img.shields.io/static/v1.svg?label=documentation&message=Report&logo=microsoft-word&color=bluel)](https://binusianorg-my.sharepoint.com/personal/kimberly_mazel_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0733469a87b264bd8bba28f95f37329dc&authkey=AQZeiY8xSWNUVGelE0nvddg&e=FqUX43)
 [![Video](https://img.shields.io/static/v1?label=documentation&message=Video&color=blue)](https://binusianorg-my.sharepoint.com/personal/alysha_maulidina_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0d8879a19f7e8428b96bf5b1ca10b537f&authkey=AWOORrkyFVlzrNK3njiUadw&e=eovFsT)
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&color=blue)](https://binusianorg-my.sharepoint.com/personal/kimberly_mazel_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0b1e45d3f25fd4dd58f6c4b6bfa53b2fd&authkey=Abow1YWPzJb5utTrTJcjOTA&e=M5zIJl)
 
-DaemonSlayer is designed to steal a specific file or all files from the victim's computer and stores them in a Discord WebHook.
+DaemonSlayer is designed to steal a specific file or all files from the victim's computer and stores them in a Discord WebHook. Its name originates from the hit manga and anime series ‘Demon Slayer’. The first half of its name, ‘Daemon’, defines a computer program that runs as a background process instead of being under the direct control of the user.
+
 
 ### Target
 Users of Windows 10+.
 
 ### Contributors
-1. Alysha Maulidina
-2. Kimberly Mazel
+1. Alysha Maulidina - Code Implementation
+2. Kimberly Mazel - Documentation
 
 ### Directory
 1. `daemonSlayer.py`: This file is to retrieve on specific file.

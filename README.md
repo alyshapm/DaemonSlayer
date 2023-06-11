@@ -20,7 +20,7 @@ Users of Windows 10+.
 
 ## Showcase
 ![image](https://i.ibb.co/jTsWHMB/image.png)
-![demo gif](https://github.com/alyshapm/DaemonSlayer/main/demo.gif)
+![demo gif](https://github.com/alyshapm/DaemonSlayer/blob/main/demo.gif)
 
 
 ## Getting started

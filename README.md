@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.gif" alt="animated" />
+  <img src="readme.gif" alt="animated" />
 </p>
 <h1 align="center">DaemonSlayer</h1>
 ## Project description

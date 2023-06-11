@@ -18,6 +18,11 @@ Users of Windows 10+.
 2. `daemonSlayer2.py`: This file is to retrieve ALL files, according to the set list of file extensions.
 3. `dist`: Folder containing the executable files; `Instagram.exe` for `daemonSlayer.py` and `TikTok.exe` for `daemonSlayer2.py`.
 
+## Showcase
+![image](https://i.ibb.co/jTsWHMB/image.png)
+![demo gif](https://github.com/alyshapm/DaemonSlayer/blob/main/rsrc/demo.gif)
+
+
 ## Getting started
 1. Clone this repo.
 ```bash

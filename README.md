@@ -20,9 +20,8 @@ Users of Windows 10+.
 2. Kimberly Mazel - Documentation
 
 ### Directory
-1. `daemonSlayer.py`: This file is to retrieve on specific file.
+1. `daemonSlayer.py`: This file is to retrieve a specific file.
 2. `daemonSlayer2.py`: This file is to retrieve ALL files, according to the set list of file extensions.
-3. `dist`: Folder containing the executable files; `Instagram.exe` for `daemonSlayer.py` and `TikTok.exe` for `daemonSlayer2.py`.
 
 ## Showcase
 ![image](https://i.ibb.co/jTsWHMB/image.png)
